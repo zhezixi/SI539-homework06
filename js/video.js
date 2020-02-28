@@ -1,4 +1,4 @@
-var video,volumeSlider;
+var video;
 function getVid(){
 	video = document.querySelector("#myVideo");
 }
